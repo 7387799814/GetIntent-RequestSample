@@ -1,3 +1,4 @@
+Banner_SiteBidRequestSample:
 {
   "id": "4487159888663217854",
   "imp": [ {
@@ -16,7 +17,7 @@
   }
 }
 
-Native_SiteBidRequestSample
+Native_SiteBidRequestSample:
 {
   "id": "4487159888663217854",
   "imp": [ {
